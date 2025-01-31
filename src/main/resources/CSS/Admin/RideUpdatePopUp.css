@@ -1,0 +1,69 @@
+
+.anchor-pane {
+    -fx-background-color: #e6e6e6; /* Clean white background */
+}
+
+.text-up{
+    -fx-font-size: 30px;
+    -fx-font-weight: BOLD;
+}
+
+.text-up-small{
+    -fx-font-size: 12px;
+    -fx-font-weight: BOLD;
+}
+
+
+.label {
+    -fx-text-fill: #c9243f;
+    -fx-font-family: "System";
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+
+
+.text-field {
+    -fx-background-color: transparent;
+    -fx-border-color: #0078d7;
+    -fx-border-radius: 2px;
+    -fx-font-size: 14px;
+    -fx-pref-width: 269px;
+    -fx-pref-height: 35px;
+    -fx-padding: 0 0 0 12px;
+}
+
+
+#updateButton {
+    -fx-background-color: #665ed3;
+    -fx-background-radius: 2px;
+    -fx-text-fill: #ffffff;
+    -fx-border-width: 0px;
+}
+
+#updateButton:hover {
+    -fx-background-color: #5953b6;
+    }
+
+#updateButton:pressed {
+    -fx-background-color: #45418c;
+}
+
+
+.combo-box {
+    -fx-background-color: transparent;
+    -fx-border-color: #0078d7;
+    -fx-border-radius: 2px;
+    -fx-font-size: 14px;
+    -fx-pref-width: 269px;
+    -fx-pref-height: 35px;
+    -fx-padding: 0 0 0 12px;
+    -fx-text-fill: black;
+}
+
+
+.combo-box:hover {
+    -fx-border-color: #005fa3;
+}
+

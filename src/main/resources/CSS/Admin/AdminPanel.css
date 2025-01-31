@@ -1,0 +1,30 @@
+.anchor-pane {
+    -fx-background-color: white;
+}
+
+.selected-label {
+    -fx-text-fill: #c9243f;
+    -fx-font-family: "System";
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-border-color: #8c192b;
+    -fx-background-color: #d70000;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-border-width: 0px 0px 2px 0;
+}
+
+
+.button:hover {
+    -fx-background-color: #b50000;
+}
+
+.button:pressed {
+    -fx-background-color: #8a0000;
+}

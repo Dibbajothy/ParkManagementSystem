@@ -1,0 +1,88 @@
+.root {
+    -fx-font-family: 'Dubai';
+    -fx-background-color: #ffffff;
+}
+
+.text-field {
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-border-color: #007bff;
+    -fx-border-width: 1px;
+    -fx-text-fill: #333333;
+    -fx-pref-width: 250;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+#validation_result{
+    -fx-padding: 5px;
+    -fx-font-size: 24px;
+    -fx-border-color: #007bff;
+    -fx-background-color: white;
+    -fx-border-width: 1px;
+    -fx-text-fill: #333333;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.checkBoxField{
+    -fx-pref-width: 47;
+}
+
+.combo-box {
+    -fx-pref-width: 230;
+    -fx-pref-height: 35;
+    -fx-padding: -2px 10px;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: black;
+    -fx-border-color: #007bff;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+
+.date-picker {
+    -fx-pref-width: 250;
+    -fx-padding: 0px 0px 0px 0px;
+    -fx-background-color: #e7f3ff;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.validateButton {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 4px 10px;
+    -fx-pref-width: 180;
+    -fx-pref-height: 30; /* Fixed height */
+    -fx-border-radius: 0px;
+    -fx-background-radius: 0px;
+    -fx-border-color: transparent;
+}
+
+
+.text {
+    -fx-fill: #000000;
+    -fx-text-alignment: CENTER;
+    -fx-alignment: CENTER;
+    -fx-font-size: 16px;
+}
+
+.validateButton:hover{
+    -fx-background-color: rgb(2, 73, 151);
+}
+
+.vbox {
+    -fx-alignment: CENTER;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}

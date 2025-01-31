@@ -1,0 +1,44 @@
+
+.anchor-pane {
+    -fx-background-color: #e6e6e6; /* Clean white background */
+}
+
+.upfieldtext{
+    -fx-font-size: 12px;
+    -fx-font-weight: BOLD;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.label {
+    -fx-font-size: 30px;
+    -fx-font-weight: BOLD;
+}
+
+
+.text-field {
+    -fx-background-color: transparent;
+    -fx-border-color: #0078d7;
+    -fx-border-radius: 2px;
+    -fx-font-size: 14px;
+    -fx-pref-width: 269px;
+    -fx-pref-height: 35px;
+    -fx-padding: 0 0 0 12px;
+}
+
+/* Specific styles for Create Button */
+#createButton {
+    -fx-background-color: #32b600; /* Updated to strong red */
+    -fx-background-radius: 2px; /* Retained square shape */
+    -fx-text-fill: #ffffff; /* Retained white text for contrast */
+    -fx-border-width: 0px; /* Removed border */
+}
+
+/* Hover and pressed effects for Buttons */
+.button:hover, #createButton:hover {
+    -fx-background-color: #2c9c01; /* Darker red on hover */
+}
+
+.button:pressed, #createButton:pressed {
+    -fx-background-color: #227701; /* Darkest red on press */
+}

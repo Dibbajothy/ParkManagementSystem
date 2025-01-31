@@ -1,0 +1,25 @@
+**************************************************
+            🎟️ AMUSEMENT PARK TICKET 🎟️           
+**************************************************
+
+===============================================
+| Ticket ID      : TICK250131182901df68      |
+| Name           : adasd                     |
+| Email          : asdasd                    |
+| Phone          : asd                       |
+| Pass Type      : VIP Pass                  |
+| Date           : 2025-01-31                |
+| Lockers        : 312                       |
+| Adults         : 123                       |
+| Children       : 123                       |
+===============================================
+
+🎢 Selected Rides:
+   ➤ Giant Ferris Wheel
+   ➤ Dragon Coaster
+
+===============================================
+| Total Price    : $41370.0                   |
+===============================================
+
+✨ Thank you for visiting! Have a great ride! ✨

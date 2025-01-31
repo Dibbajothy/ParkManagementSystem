@@ -1,0 +1,89 @@
+
+.text-up{
+    -fx-font-size: 30px;
+    -fx-font-weight: BOLD;
+}
+
+* {
+    -fx-primary-color: #ffffff;
+    -fx-secondary-color: #cccccc;
+    -fx-accent-color: #e0e0e0;
+    -fx-header-color: #d3d3d3;
+    -fx-row-hover-color: #f9f9f9;
+    -fx-row-selected-color: #b0c4de;
+    -fx-text-color: black;
+    -fx-header-text-color: black;
+}
+
+
+.button {
+    -fx-border-color: rgba(0, 0, 0, 0.1);
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: #333333;
+    -fx-font-size: 13px;
+    -fx-font-weight: normal;
+    -fx-border-radius: 2px;
+    -fx-background-radius: 2px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.button:pressed {
+    -fx-background-color: #cccccc;
+}
+
+#deleteButton {
+    -fx-background-color: #ca0202;
+    -fx-text-fill: white;
+}
+
+#deleteButton:hover {
+    -fx-background-color: #810101;
+}
+
+#deleteButton:pressed {
+    -fx-background-color: #510101;
+}
+
+#detailsButton {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+}
+
+#detailsButton:hover {
+    -fx-background-color: #005bb5;
+}
+
+#detailsButton:pressed {
+    -fx-background-color: #004080;
+}
+
+
+#addButton {
+    -fx-background-color: rgb(0, 192, 36);
+    -fx-text-fill: white;
+}
+
+#addButton:hover {
+    -fx-background-color: #029a1e;
+}
+
+#addButton:pressed {
+    -fx-background-color: #027e18;
+}
+
+#updateButton {
+    -fx-background-color: rgba(45, 143, 170, 0.88);
+    -fx-text-fill: white;
+}
+
+#updateButton:hover {
+    -fx-background-color: rgba(38, 116, 138, 0.88);
+}
+
+#updateButton:pressed {
+    -fx-background-color: rgba(29, 85, 101, 0.88);
+}

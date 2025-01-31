@@ -1,0 +1,72 @@
+
+* {
+    -fx-font-family: "Dubai";
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+
+StackPane {
+    -fx-background-color: #f5f5f5;
+}
+
+
+#totalAmount {
+    -fx-fill: green;
+    -fx-font-size: 1.1em;
+}
+
+#passType {
+    -fx-fill: #2d8faa;
+    -fx-font-size: 1.1em;
+}
+
+.text-heading {
+    -fx-font-size: 36px;
+    -fx-font-weight: bold;
+    -fx-fill: #444444;
+}
+
+
+.text-subheading {
+    -fx-font-size: 16px;
+    -fx-fill: #666666;
+}
+
+
+TextField {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+    -fx-text-fill: #333333;
+}
+
+TextField:focused {
+    -fx-border-color: #0078d7;
+}
+
+.list-view{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+}
+
+#tf_totalAmount{
+    -fx-border-color: green;
+}
+
+
+#validateButton {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: #ffffff;
+    -fx-border-radius: 5px;
+    -fx-padding: 10px 20px;
+}
+
+#validateButton:hover {
+    -fx-background-color: #005bb5;
+}
+
+#validateButton:pressed {
+    -fx-background-color: #003f8a;
+}

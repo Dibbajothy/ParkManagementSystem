@@ -1,0 +1,123 @@
+.root {
+    -fx-font-family: 'Dubai';
+    -fx-background-color: #ffffff;
+}
+
+.text-field {
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-border-color: #007bff;
+    -fx-border-width: 1px;
+    -fx-text-fill: #333333;
+
+    -fx-pref-width: 250;
+    -fx-background-color: white;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.checkBoxField{
+    -fx-pref-width: 47;
+}
+
+.choice-box {
+    -fx-pref-width: 250;
+    -fx-pref-height: 20;
+    -fx-padding: -2px 10px;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #007bff;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+
+.date-picker {
+    -fx-pref-width: 250;
+    -fx-padding: 0px 0px 0px 0px;
+    -fx-background-color: transparent;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+
+#calculateButton {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 4px 10px;
+    -fx-pref-width: 180;
+    -fx-pref-height: 30;
+    -fx-border-radius: 0px;
+    -fx-background-radius: 0px;
+    -fx-border-color: transparent;
+}
+
+.generateTicket {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 4px 10px;
+    -fx-pref-width: 180;
+    -fx-pref-height: 30;
+    -fx-border-radius: 0px;
+    -fx-background-radius: 0px;
+    -fx-border-color: transparent;
+}
+
+
+.text {
+    -fx-fill: #000000;
+    -fx-text-alignment: CENTER;
+    -fx-alignment: CENTER;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+
+.hbox, .vbox {
+    -fx-alignment: CENTER;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+
+.list-view {
+    -fx-padding: 5px;
+    -fx-background-color: transparent;
+    -fx-border-color: #007bff;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-pref-width: 250;
+    -fx-pref-height: 200;
+}
+
+
+.list-cell {
+    -fx-text-fill: #333333;
+    -fx-font-size: 14px;
+    -fx-font-family: 'Dubai';
+    -fx-padding: 5px;
+    -fx-background-color: #ffffff;
+    -fx-border-width: 0 0 1px 0;
+    -fx-border-color: #e0e0e0;
+}
+
+.list-cell:hover {
+    -fx-background-color: #d1e9ff;
+    -fx-text-fill: #007bff;
+    -fx-cursor: hand;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #007bff;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}

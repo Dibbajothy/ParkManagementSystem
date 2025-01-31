@@ -1,0 +1,54 @@
+.label{
+    -fx-font-size: 15px;
+    -fx-font-family: Dubai;
+    -fx-font-weight: BOLD;
+    -fx-text-fill: #000000;
+}
+
+#totalRevenue{
+    -fx-font-size: 40px;
+    -fx-font-family: Dubai;
+    -fx-font-weight: BOLD;
+    -fx-fill: #cc2b2b;
+}
+
+
+#totalMoney{
+    -fx-font-size: 50px;
+    -fx-font-family: Dubai;
+    -fx-font-weight: BOLD;
+    -fx-text-fill: green;
+}
+
+
+.desLabelRight{
+    -fx-font-size: 20px;
+    -fx-font-family: Dubai;
+    -fx-font-weight: BOLD;
+    -fx-text-fill: #000000;
+}
+
+.desLabelLeft{
+    -fx-font-size: 20px;
+    -fx-font-family: Dubai;
+    -fx-text-fill: #000000;
+}
+
+#todayMoney{
+    -fx-font-size: 50px;
+    -fx-font-family: Dubai;
+    -fx-font-weight: BOLD;
+    -fx-text-fill: green;
+}
+
+#todayRevenue{
+    -fx-font-size: 40px;
+    -fx-font-family: Dubai;
+    -fx-font-weight: BOLD;
+    -fx-fill: #13647a;
+}
+
+#dateLabel{
+    -fx-font-size: 30px;
+    -fx-text-fill: #6b6b6b;
+}

@@ -1,0 +1,35 @@
+
+
+/* General styles for AnchorPane */
+.anchor-pane {
+    -fx-background-color: white; /* Updated to clean white background */
+}
+
+/* Label styles */
+.label {
+    -fx-text-fill: #007bff; /* Updated to strong red color for emphasis */
+    -fx-font-family: "System"; /* Retained original font family */
+    -fx-font-size: 15px; /* Retained original size */
+    -fx-font-weight: bold; /* Retained bold for visibility */
+    -fx-alignment: center; /* Center alignment */
+}
+
+/* Button styles */
+.button {
+    -fx-border-color: #154d8c; /* Updated to strong red border */
+    -fx-background-color: #007bff; /* Updated to strong red background */
+    -fx-text-fill: white; /* Retained white text for contrast */
+    -fx-cursor: hand; /* Pointer cursor */
+    -fx-font-size: 13px; /* Retained font size */
+    -fx-font-weight: bold; /* Retained bold for emphasis */
+    -fx-border-width: 0px 0px 2px 0; /* Subtle bottom border */
+}
+
+/* Button hover and pressed states */
+.button:hover {
+    -fx-background-color: #0059b6; /* Darker red for hover effect */
+}
+
+.button:pressed {
+    -fx-background-color: #004085; /* Even darker red for pressed state */
+}
