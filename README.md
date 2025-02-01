@@ -89,5 +89,7 @@ If the JAR file does not work, you can run the project from IntelliJ:
 2. Ensure **Maven (pom.xml)** loads all dependencies automatically, or manually add **JavaFX SDK 23.0.1** under **Project Structure → Libraries**.
 3. Run the project from IntelliJ.
 
+****Where ever you run that jar file the *.txt file for a ticket will be created in that same directory inside a GeneratedTicket directory, if that directory doesn't exists then it will create it in its own . 
+
 Now, you are all set to explore and manage the Park Management System! 🚀
 
