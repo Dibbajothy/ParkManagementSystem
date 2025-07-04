@@ -93,3 +93,7 @@ If the JAR file does not work, you can run the project from IntelliJ:
 
 Now, you are all set to explore and manage the Park Management System! 🚀
 
+
+## Visuals
+![image](https://github.com/user-attachments/assets/3d7bd959-c820-4096-b7ff-b4aa3a9c3a60)
+
