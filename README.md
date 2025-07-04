@@ -95,5 +95,18 @@ Now, you are all set to explore and manage the Park Management System! 🚀
 
 
 ## Visuals
-![image](https://github.com/user-attachments/assets/3d7bd959-c820-4096-b7ff-b4aa3a9c3a60)
+![image](https://github.com/user-attachments/assets/275431f9-3a29-473b-ae9b-5d53db3bd88b)
+![image](https://github.com/user-attachments/assets/e628ac1a-4834-4ff5-9043-2640ae5fd6f6)
+![image](https://github.com/user-attachments/assets/9670b66d-7066-4095-ab2a-dc3b44f43761)
+![image](https://github.com/user-attachments/assets/329518c4-6c2d-4b10-ac66-46565814d9ef)
+![image](https://github.com/user-attachments/assets/a2c04b72-2e5a-427e-82c0-3d485438e57a)
+![image](https://github.com/user-attachments/assets/b8e31ca6-7aae-4990-80b6-bb96fe1553d8)
+![image](https://github.com/user-attachments/assets/b8825185-dad1-4492-81c1-2c809079ab83)
+![image](https://github.com/user-attachments/assets/9ff588ac-86c4-441a-b010-0af03bee5878)
+![image](https://github.com/user-attachments/assets/bcd90aba-3ae6-47d5-8832-fbe2d682c1cc)
+![image](https://github.com/user-attachments/assets/6052d928-237e-4b01-a2c0-0722897bed8c)
+
+
+
+
 
